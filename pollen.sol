@@ -17,7 +17,7 @@ contract Token {
     
 
 
-    /// @return total amount of tokens
+    /// @return total amount of tokens new update
     function totalSupply() constant returns (uint256 supply) {}
 
     /// @param _owner The address from which the balance will be retrieved
